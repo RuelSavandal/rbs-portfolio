@@ -30,7 +30,7 @@ function Navigation() {
                 </li>
             </ul>
             <footer className="footer">
-                <p>Copyright | @ 2021 <b>RUEL B. SAVANDAL</b></p>
+                <p>© | 2021 <b>Created and Develop by: RBS</b></p>
             </footer>
         </NavigationStyled>
     )
